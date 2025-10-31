@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Pham Nguyen's homepage
 description: A showcase of my projects and experiences.
-logo: none
+github:
+  is_project_page: false
+show_downloads: false
